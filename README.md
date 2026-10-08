@@ -6,6 +6,8 @@ Code and network data accompanying:
 This repository contains the Python code used to implement the **Ergodic Set Coarse-graining Algorithm (ESCA)** and to generate the numerical results presented in the paper.
 
 ## Repository Structure
+
+```
 ESCA/
 ├── src/
 │   ├── 01_ESCA_step_1.py
@@ -18,6 +20,7 @@ ESCA/
 │   └── Validated/
 ├── results/
 └── figures/
+```
 
 ## Code
 
